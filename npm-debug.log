@@ -22,24 +22,24 @@
 8 verbose parsed url   href: '.' }
 9 silly lockFile 3a52ce78- .
 10 verbose lock . C:\Users\choizhang\AppData\Roaming\npm-cache\3a52ce78-.lock
-11 verbose tar pack [ 'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-9368-yhrFxRkX\\1395974755023-0.8277442229446024\\tmp.tgz',
+11 verbose tar pack [ 'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-6036-oyD9g-Yr\\1395983357654-0.11463481280952692\\tmp.tgz',
 11 verbose tar pack   '.' ]
-12 verbose tarball C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+12 verbose tarball C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
 13 verbose folder .
 14 info prepublish generator-choi@0.0.1
 15 silly lockFile 1f1177db-tar tar://.
 16 verbose lock tar://. C:\Users\choizhang\AppData\Roaming\npm-cache\1f1177db-tar.lock
-17 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-18 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\84997c6f-55023-0-8277442229446024-tmp-tgz.lock
+17 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+18 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\792eb99e-7654-0-11463481280952692-tmp-tgz.lock
 19 silly lockFile 1f1177db-tar tar://.
 20 silly lockFile 1f1177db-tar tar://.
-21 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-22 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-23 verbose tar unpack C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-24 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-25 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package C:\Users\choizhang\AppData\Roaming\npm-cache\91530108-55023-0-8277442229446024-package.lock
-26 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-27 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\84997c6f-55023-0-8277442229446024-tmp-tgz.lock
+21 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+22 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+23 verbose tar unpack C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+24 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+25 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package C:\Users\choizhang\AppData\Roaming\npm-cache\c9a9b6f8-7654-0-11463481280952692-package.lock
+26 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+27 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\792eb99e-7654-0-11463481280952692-tmp-tgz.lock
 28 silly gunzTarPerm modes [ '755', '644' ]
 29 silly gunzTarPerm extractEntry package.json
 30 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
@@ -121,20 +121,20 @@
 106 silly gunzTarPerm modified mode [ 'test/test-creation.js', 438, 420 ]
 107 silly gunzTarPerm extractEntry test/test-load.js
 108 silly gunzTarPerm modified mode [ 'test/test-load.js', 438, 420 ]
-109 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-110 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-111 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
-112 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+109 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+110 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+111 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
+112 silly lockFile 792eb99e-7654-0-11463481280952692-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\tmp.tgz
 113 verbose tar pack [ 'C:\\Users\\choizhang\\AppData\\Roaming\\npm-cache\\generator-choi\\0.0.1\\package.tgz',
-113 verbose tar pack   'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-9368-yhrFxRkX\\1395974755023-0.8277442229446024\\package' ]
+113 verbose tar pack   'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-6036-oyD9g-Yr\\1395983357654-0.11463481280952692\\package' ]
 114 verbose tarball C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
-115 verbose folder C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-116 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-117 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package C:\Users\choizhang\AppData\Roaming\npm-cache\91530108-55023-0-8277442229446024-package.lock
+115 verbose folder C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+116 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+117 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package C:\Users\choizhang\AppData\Roaming\npm-cache\c9a9b6f8-7654-0-11463481280952692-package.lock
 118 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
 119 verbose lock tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\bbd6efbe-generator-choi-0-0-1-package-tgz.lock
-120 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
-121 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+120 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
+121 silly lockFile c9a9b6f8-7654-0-11463481280952692-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-6036-oyD9g-Yr\1395983357654-0.11463481280952692\package
 122 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
 123 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
 124 silly lockFile 251252f8-che-generator-choi-0-0-1-package C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
@@ -243,120 +243,62 @@
 222 silly publish   dependencies: { chalk: '~0.4.0', 'yeoman-generator': '~0.16.0' },
 222 silly publish   devDependencies: { mocha: '~1.18.0' },
 222 silly publish   scripts: { test: 'mocha' },
-222 silly publish   repository: { type: 'git', url: 'git@github.com:choizhang/hideseek.git' },
+222 silly publish   repository:
+222 silly publish    { type: 'git',
+222 silly publish      url: 'git@github.com:choizhang/generator-choi.git' },
 222 silly publish   keywords: [ 'test' ],
 222 silly publish   author: { name: 'choizhang' },
 222 silly publish   license: 'MIT',
-222 silly publish   bugs: { url: 'https://github.com/hzlzh/f2e-workflow/issues' },
-222 silly publish   homepage: 'https://github.com/hzlzh/f2e-workflow',
+222 silly publish   bugs: { url: 'https://github.com/choizhang/generator-choi/issues' },
+222 silly publish   homepage: 'https://github.com/choizhang/generator-choi',
 222 silly publish   readme: '# generator-choi [![Build Status](https://secure.travis-ci.org/choizhang/generator-choi.png?branch=master)](https://travis-ci.org/choizhang/generator-choi)\n\n> [Yeoman](http://yeoman.io) generator\n\n\n## Getting Started\n\n### What is Yeoman?\n\nTrick question. It\'s not a thing. It\'s this guy:\n\n![](http://i.imgur.com/JHaAlBJ.png)\n\nBasically, he wears a top hat, lives in your computer, and waits for you to tell him what kind of application you wish to create.\n\nNot every new computer comes with a Yeoman pre-installed. He lives in the [npm](https://npmjs.org) package repository. You only have to ask for him once, then he packs up and moves into your hard drive. *Make sure you clean up, he likes new and shiny things.*\n\n```\n$ npm install -g yo\n```\n\n### Yeoman Generators\n\nYeoman travels light. He didn\'t pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.\n\nTo install generator-choi from npm, run:\n\n```\n$ npm install -g generator-choi\n```\n\nFinally, initiate the generator:\n\n```\n$ yo choi\n```\n\n### Getting To Know Yeoman\n\nYeoman has a heart of gold. He\'s a person with feelings and opinions, but he\'s very easy to work with. If you think he\'s too opinionated, he can be easily convinced.\n\nIf you\'d like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).\n\n\n## License\n\nMIT\n',
 222 silly publish   readmeFilename: 'README.md',
 222 silly publish   _id: 'generator-choi@0.0.1',
-222 silly publish   dist: { shasum: '42b1ed4187d6b5e5dcef505b47e89cd66ae0e4ab' },
+222 silly publish   dist: { shasum: '04cc1a832580bf2b38076134db8b52807c35fb65' },
 222 silly publish   _from: '.' }
 223 verbose url raw generator-choi
 224 verbose url resolving [ 'https://registry.npmjs.org/', './generator-choi' ]
 225 verbose url resolved https://registry.npmjs.org/generator-choi
-226 info trying registry request attempt 1 at 10:45:56
+226 info trying registry request attempt 1 at 13:09:18
 227 http PUT https://registry.npmjs.org/generator-choi
-228 http 502 https://registry.npmjs.org/generator-choi
+228 http 400 https://registry.npmjs.org/generator-choi
 229 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 229 verbose bad json <html><head>
-229 verbose bad json <title>502 Bad Gateway</title>
+229 verbose bad json <title>400 Bad Request</title>
 229 verbose bad json </head><body>
-229 verbose bad json <h1>Bad Gateway</h1>
-229 verbose bad json <p>The proxy server received an invalid
-229 verbose bad json response from an upstream server.<br />
+229 verbose bad json <h1>Bad Request</h1>
+229 verbose bad json <p>Your browser sent a request that this server could not understand.<br />
 229 verbose bad json </p>
-229 verbose bad json <p>Additionally, a 502 Bad Gateway
-229 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
 229 verbose bad json </body></html>
 230 error registry error parsing json
-231 info retry will retry, error on last attempt: SyntaxError: Unexpected token <
-231 info retry <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-231 info retry <html><head>
-231 info retry <title>502 Bad Gateway</title>
-231 info retry </head><body>
-231 info retry <h1>Bad Gateway</h1>
-231 info retry <p>The proxy server received an invalid
-231 info retry response from an upstream server.<br />
-231 info retry </p>
-231 info retry <p>Additionally, a 502 Bad Gateway
-231 info retry error was encountered while trying to use an ErrorDocument to handle the request.</p>
-231 info retry </body></html>
-232 info trying registry request attempt 2 at 10:48:59
-233 http PUT https://registry.npmjs.org/generator-choi
-234 http 502 https://registry.npmjs.org/generator-choi
-235 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-235 verbose bad json <html><head>
-235 verbose bad json <title>502 Bad Gateway</title>
-235 verbose bad json </head><body>
-235 verbose bad json <h1>Bad Gateway</h1>
-235 verbose bad json <p>The proxy server received an invalid
-235 verbose bad json response from an upstream server.<br />
-235 verbose bad json </p>
-235 verbose bad json <p>Additionally, a 502 Bad Gateway
-235 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
-235 verbose bad json </body></html>
-236 error registry error parsing json
-237 info retry will retry, error on last attempt: SyntaxError: Unexpected token <
-237 info retry <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-237 info retry <html><head>
-237 info retry <title>502 Bad Gateway</title>
-237 info retry </head><body>
-237 info retry <h1>Bad Gateway</h1>
-237 info retry <p>The proxy server received an invalid
-237 info retry response from an upstream server.<br />
-237 info retry </p>
-237 info retry <p>Additionally, a 502 Bad Gateway
-237 info retry error was encountered while trying to use an ErrorDocument to handle the request.</p>
-237 info retry </body></html>
-238 info trying registry request attempt 3 at 10:52:28
-239 http PUT https://registry.npmjs.org/generator-choi
-240 http 502 https://registry.npmjs.org/generator-choi
-241 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-241 verbose bad json <html><head>
-241 verbose bad json <title>502 Bad Gateway</title>
-241 verbose bad json </head><body>
-241 verbose bad json <h1>Bad Gateway</h1>
-241 verbose bad json <p>The proxy server received an invalid
-241 verbose bad json response from an upstream server.<br />
-241 verbose bad json </p>
-241 verbose bad json <p>Additionally, a 502 Bad Gateway
-241 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
-241 verbose bad json </body></html>
-242 error registry error parsing json
-243 error publish Failed PUT 502
-244 error SyntaxError: Unexpected token <
-244 error <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-244 error <html><head>
-244 error <title>502 Bad Gateway</title>
-244 error </head><body>
-244 error <h1>Bad Gateway</h1>
-244 error <p>The proxy server received an invalid
-244 error response from an upstream server.<br />
-244 error </p>
-244 error <p>Additionally, a 502 Bad Gateway
-244 error error was encountered while trying to use an ErrorDocument to handle the request.</p>
-244 error </body></html>
-244 error
-244 error     at Object.parse (native)
-244 error     at RegClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:203:23)
-244 error     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:123:22)
-244 error     at Request.EventEmitter.emit (events.js:98:17)
-244 error     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:893:14)
-244 error     at Request.EventEmitter.emit (events.js:117:20)
-244 error     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:844:12)
-244 error     at IncomingMessage.EventEmitter.emit (events.js:117:20)
-244 error     at _stream_readable.js:920:16
-244 error     at process._tickCallback (node.js:415:13)
-245 error If you need help, you may report this *entire* log,
-245 error including the npm and node versions, at:
-245 error     <http://github.com/npm/npm/issues>
-246 error System Windows_NT 6.1.7601
-247 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
-248 error cwd E:\projects\2014\3\fis\choi\generator-choi
-249 error node -v v0.10.26
-250 error npm -v 1.4.3
-251 error type unexpected_token
-252 verbose exit [ 1, true ]
+231 error publish Failed PUT 400
+232 error SyntaxError: Unexpected token <
+232 error <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+232 error <html><head>
+232 error <title>400 Bad Request</title>
+232 error </head><body>
+232 error <h1>Bad Request</h1>
+232 error <p>Your browser sent a request that this server could not understand.<br />
+232 error </p>
+232 error </body></html>
+232 error
+232 error     at Object.parse (native)
+232 error     at RegClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:203:23)
+232 error     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:123:22)
+232 error     at Request.EventEmitter.emit (events.js:98:17)
+232 error     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:893:14)
+232 error     at Request.EventEmitter.emit (events.js:117:20)
+232 error     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:844:12)
+232 error     at IncomingMessage.EventEmitter.emit (events.js:117:20)
+232 error     at _stream_readable.js:920:16
+232 error     at process._tickCallback (node.js:415:13)
+233 error If you need help, you may report this *entire* log,
+233 error including the npm and node versions, at:
+233 error     <http://github.com/npm/npm/issues>
+234 error System Windows_NT 6.1.7601
+235 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+236 error cwd C:\Users\choizhang\Documents\GitHub\generator-choi
+237 error node -v v0.10.26
+238 error npm -v 1.4.3
+239 error type unexpected_token
+240 verbose exit [ 1, true ]

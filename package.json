@@ -2,7 +2,7 @@
   "name": "generator-choi",
   "version": "0.0.1",
   "description": "test",
-  "main": "index.js",
+  "main": "app/index.js",
   "directories": {
     "test": "test"
   },
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:choizhang/hideseek.git"
+    "url": "git@github.com:choizhang/generator-choi.git"
   },
   "keywords": [
     "test"
@@ -26,7 +26,7 @@
   "author": "choizhang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hzlzh/f2e-workflow/issues"
+    "url": "https://github.com/choizhang/generator-choi/issues"
   },
-  "homepage": "https://github.com/hzlzh/f2e-workflow"
+  "homepage": "https://github.com/choizhang/generator-choi"
 }
