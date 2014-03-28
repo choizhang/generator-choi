@@ -1,0 +1,32 @@
+{
+  "name": "generator-choi",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "~0.4.0",
+    "yeoman-generator": "~0.16.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:choizhang/hideseek.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "choizhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzlzh/f2e-workflow/issues"
+  },
+  "homepage": "https://github.com/hzlzh/f2e-workflow"
+}

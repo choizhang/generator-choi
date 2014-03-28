@@ -1,0 +1,362 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'publish' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose publish [ '.' ]
+6 verbose cache add [ '.', null ]
+7 verbose cache add name=undefined spec="." args=[".",null]
+8 verbose parsed url { protocol: null,
+8 verbose parsed url   slashes: null,
+8 verbose parsed url   auth: null,
+8 verbose parsed url   host: null,
+8 verbose parsed url   port: null,
+8 verbose parsed url   hostname: null,
+8 verbose parsed url   hash: null,
+8 verbose parsed url   search: null,
+8 verbose parsed url   query: null,
+8 verbose parsed url   pathname: '.',
+8 verbose parsed url   path: '.',
+8 verbose parsed url   href: '.' }
+9 silly lockFile 3a52ce78- .
+10 verbose lock . C:\Users\choizhang\AppData\Roaming\npm-cache\3a52ce78-.lock
+11 verbose tar pack [ 'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-9368-yhrFxRkX\\1395974755023-0.8277442229446024\\tmp.tgz',
+11 verbose tar pack   '.' ]
+12 verbose tarball C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+13 verbose folder .
+14 info prepublish generator-choi@0.0.1
+15 silly lockFile 1f1177db-tar tar://.
+16 verbose lock tar://. C:\Users\choizhang\AppData\Roaming\npm-cache\1f1177db-tar.lock
+17 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+18 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\84997c6f-55023-0-8277442229446024-tmp-tgz.lock
+19 silly lockFile 1f1177db-tar tar://.
+20 silly lockFile 1f1177db-tar tar://.
+21 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+22 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+23 verbose tar unpack C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+24 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+25 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package C:\Users\choizhang\AppData\Roaming\npm-cache\91530108-55023-0-8277442229446024-package.lock
+26 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+27 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\84997c6f-55023-0-8277442229446024-tmp-tgz.lock
+28 silly gunzTarPerm modes [ '755', '644' ]
+29 silly gunzTarPerm extractEntry package.json
+30 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+31 silly gunzTarPerm extractEntry .npmignore
+32 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+33 silly gunzTarPerm extractEntry README.md
+34 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+35 silly gunzTarPerm extractEntry .editorconfig
+36 silly gunzTarPerm modified mode [ '.editorconfig', 438, 420 ]
+37 silly gunzTarPerm extractEntry .gitattributes
+38 silly gunzTarPerm modified mode [ '.gitattributes', 438, 420 ]
+39 silly gunzTarPerm extractEntry .jshintrc
+40 silly gunzTarPerm modified mode [ '.jshintrc', 438, 420 ]
+41 silly gunzTarPerm extractEntry .travis.yml
+42 silly gunzTarPerm modified mode [ '.travis.yml', 438, 420 ]
+43 silly gunzTarPerm extractEntry app/index.js
+44 silly gunzTarPerm modified mode [ 'app/index.js', 438, 420 ]
+45 silly gunzTarPerm extractEntry app/templates/_package.json
+46 silly gunzTarPerm modified mode [ 'app/templates/_package.json', 438, 420 ]
+47 silly gunzTarPerm extractEntry app/templates/README.DOC
+48 silly gunzTarPerm modified mode [ 'app/templates/README.DOC', 438, 420 ]
+49 silly gunzTarPerm extractEntry app/templates/README.TXT
+50 silly gunzTarPerm modified mode [ 'app/templates/README.TXT', 438, 420 ]
+51 silly gunzTarPerm extractEntry app/templates/_bower.json
+52 silly gunzTarPerm modified mode [ 'app/templates/_bower.json', 438, 420 ]
+53 silly gunzTarPerm extractEntry app/templates/_less/g-mb.less
+54 silly gunzTarPerm modified mode [ 'app/templates/_less/g-mb.less', 438, 420 ]
+55 silly gunzTarPerm extractEntry app/templates/_less/g-pc.less
+56 silly gunzTarPerm modified mode [ 'app/templates/_less/g-pc.less', 438, 420 ]
+57 silly gunzTarPerm extractEntry app/templates/_less/less2css.bat
+58 silly gunzTarPerm modified mode [ 'app/templates/_less/less2css.bat', 438, 420 ]
+59 silly gunzTarPerm extractEntry app/templates/_less/lib-mixins-mb.less
+60 silly gunzTarPerm modified mode [ 'app/templates/_less/lib-mixins-mb.less', 438, 420 ]
+61 silly gunzTarPerm extractEntry app/templates/_less/lib-mixins-pc.less
+62 silly gunzTarPerm modified mode [ 'app/templates/_less/lib-mixins-pc.less', 438, 420 ]
+63 silly gunzTarPerm extractEntry app/templates/_less/mod-common-mb.less
+64 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-common-mb.less', 438, 420 ]
+65 silly gunzTarPerm extractEntry app/templates/_less/mod-common-pc.less
+66 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-common-pc.less', 438, 420 ]
+67 silly gunzTarPerm extractEntry app/templates/_less/mod-footer-pc.less
+68 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-footer-pc.less', 438, 420 ]
+69 silly gunzTarPerm extractEntry app/templates/_less/mod-reset-mb.less
+70 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-reset-mb.less', 438, 420 ]
+71 silly gunzTarPerm extractEntry app/templates/_less/mod-reset-pc.less
+72 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-reset-pc.less', 438, 420 ]
+73 silly gunzTarPerm extractEntry app/templates/README.MD
+74 silly gunzTarPerm modified mode [ 'app/templates/README.MD', 438, 420 ]
+75 silly gunzTarPerm extractEntry app/templates/editorconfig
+76 silly gunzTarPerm modified mode [ 'app/templates/editorconfig', 438, 420 ]
+77 silly gunzTarPerm extractEntry app/templates/html/guide.html
+78 silly gunzTarPerm modified mode [ 'app/templates/html/guide.html', 438, 420 ]
+79 silly gunzTarPerm extractEntry app/templates/html/index-mb.html
+80 silly gunzTarPerm modified mode [ 'app/templates/html/index-mb.html', 438, 420 ]
+81 silly gunzTarPerm extractEntry app/templates/html/index-pc.html
+82 silly gunzTarPerm modified mode [ 'app/templates/html/index-pc.html', 438, 420 ]
+83 silly gunzTarPerm extractEntry app/templates/html/pc-footer.html
+84 silly gunzTarPerm modified mode [ 'app/templates/html/pc-footer.html', 438, 420 ]
+85 silly gunzTarPerm extractEntry app/templates/html/pc-header.html
+86 silly gunzTarPerm modified mode [ 'app/templates/html/pc-header.html', 438, 420 ]
+87 silly gunzTarPerm extractEntry app/templates/js/lib/alloydesigner.js
+88 silly gunzTarPerm modified mode [ 'app/templates/js/lib/alloydesigner.js', 438, 420 ]
+89 silly gunzTarPerm extractEntry app/templates/js/lib/jquery-1.10.1.min.js
+90 silly gunzTarPerm modified mode [ 'app/templates/js/lib/jquery-1.10.1.min.js', 438, 420 ]
+91 silly gunzTarPerm extractEntry app/templates/js/lib/less2css.js
+92 silly gunzTarPerm modified mode [ 'app/templates/js/lib/less2css.js', 438, 420 ]
+93 silly gunzTarPerm extractEntry app/templates/js/lib/mb-component-min.js
+94 silly gunzTarPerm modified mode [ 'app/templates/js/lib/mb-component-min.js', 438, 420 ]
+95 silly gunzTarPerm extractEntry app/templates/js/lib/mb-component.js
+96 silly gunzTarPerm modified mode [ 'app/templates/js/lib/mb-component.js', 438, 420 ]
+97 silly gunzTarPerm extractEntry app/templates/js/lib/pc-component-min.js
+98 silly gunzTarPerm modified mode [ 'app/templates/js/lib/pc-component-min.js', 438, 420 ]
+99 silly gunzTarPerm extractEntry app/templates/js/lib/pc-component.js
+100 silly gunzTarPerm modified mode [ 'app/templates/js/lib/pc-component.js', 438, 420 ]
+101 silly gunzTarPerm extractEntry app/templates/js/lib/ua.js
+102 silly gunzTarPerm modified mode [ 'app/templates/js/lib/ua.js', 438, 420 ]
+103 silly gunzTarPerm extractEntry app/templates/jshintrc
+104 silly gunzTarPerm modified mode [ 'app/templates/jshintrc', 438, 420 ]
+105 silly gunzTarPerm extractEntry test/test-creation.js
+106 silly gunzTarPerm modified mode [ 'test/test-creation.js', 438, 420 ]
+107 silly gunzTarPerm extractEntry test/test-load.js
+108 silly gunzTarPerm modified mode [ 'test/test-load.js', 438, 420 ]
+109 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+110 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+111 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+112 silly lockFile 84997c6f-55023-0-8277442229446024-tmp-tgz tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\tmp.tgz
+113 verbose tar pack [ 'C:\\Users\\choizhang\\AppData\\Roaming\\npm-cache\\generator-choi\\0.0.1\\package.tgz',
+113 verbose tar pack   'C:\\Users\\CHOIZH~1\\AppData\\Local\\Temp\\npm-9368-yhrFxRkX\\1395974755023-0.8277442229446024\\package' ]
+114 verbose tarball C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+115 verbose folder C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+116 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+117 verbose lock tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package C:\Users\choizhang\AppData\Roaming\npm-cache\91530108-55023-0-8277442229446024-package.lock
+118 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+119 verbose lock tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\bbd6efbe-generator-choi-0-0-1-package-tgz.lock
+120 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+121 silly lockFile 91530108-55023-0-8277442229446024-package tar://C:\Users\CHOIZH~1\AppData\Local\Temp\npm-9368-yhrFxRkX\1395974755023-0.8277442229446024\package
+122 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+123 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+124 silly lockFile 251252f8-che-generator-choi-0-0-1-package C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+125 verbose lock C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package C:\Users\choizhang\AppData\Roaming\npm-cache\251252f8-che-generator-choi-0-0-1-package.lock
+126 silly lockFile 251252f8-che-generator-choi-0-0-1-package C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+127 silly lockFile 251252f8-che-generator-choi-0-0-1-package C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+128 verbose tar unpack C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+129 silly lockFile 17da9b2f-che-generator-choi-0-0-1-package tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+130 verbose lock tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package C:\Users\choizhang\AppData\Roaming\npm-cache\17da9b2f-che-generator-choi-0-0-1-package.lock
+131 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+132 verbose lock tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz C:\Users\choizhang\AppData\Roaming\npm-cache\bbd6efbe-generator-choi-0-0-1-package-tgz.lock
+133 silly gunzTarPerm modes [ '755', '644' ]
+134 silly gunzTarPerm extractEntry package.json
+135 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+136 silly gunzTarPerm extractEntry .npmignore
+137 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+138 silly gunzTarPerm extractEntry README.md
+139 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+140 silly gunzTarPerm extractEntry .editorconfig
+141 silly gunzTarPerm modified mode [ '.editorconfig', 438, 420 ]
+142 silly gunzTarPerm extractEntry .gitattributes
+143 silly gunzTarPerm modified mode [ '.gitattributes', 438, 420 ]
+144 silly gunzTarPerm extractEntry .jshintrc
+145 silly gunzTarPerm modified mode [ '.jshintrc', 438, 420 ]
+146 silly gunzTarPerm extractEntry .travis.yml
+147 silly gunzTarPerm modified mode [ '.travis.yml', 438, 420 ]
+148 silly gunzTarPerm extractEntry app/index.js
+149 silly gunzTarPerm modified mode [ 'app/index.js', 438, 420 ]
+150 silly gunzTarPerm extractEntry app/templates/README.DOC
+151 silly gunzTarPerm modified mode [ 'app/templates/README.DOC', 438, 420 ]
+152 silly gunzTarPerm extractEntry app/templates/README.MD
+153 silly gunzTarPerm modified mode [ 'app/templates/README.MD', 438, 420 ]
+154 silly gunzTarPerm extractEntry app/templates/README.TXT
+155 silly gunzTarPerm modified mode [ 'app/templates/README.TXT', 438, 420 ]
+156 silly gunzTarPerm extractEntry app/templates/_bower.json
+157 silly gunzTarPerm modified mode [ 'app/templates/_bower.json', 438, 420 ]
+158 silly gunzTarPerm extractEntry app/templates/_less/g-mb.less
+159 silly gunzTarPerm modified mode [ 'app/templates/_less/g-mb.less', 438, 420 ]
+160 silly gunzTarPerm extractEntry app/templates/_less/g-pc.less
+161 silly gunzTarPerm modified mode [ 'app/templates/_less/g-pc.less', 438, 420 ]
+162 silly gunzTarPerm extractEntry app/templates/_less/less2css.bat
+163 silly gunzTarPerm modified mode [ 'app/templates/_less/less2css.bat', 438, 420 ]
+164 silly gunzTarPerm extractEntry app/templates/_less/lib-mixins-mb.less
+165 silly gunzTarPerm modified mode [ 'app/templates/_less/lib-mixins-mb.less', 438, 420 ]
+166 silly gunzTarPerm extractEntry app/templates/_less/lib-mixins-pc.less
+167 silly gunzTarPerm modified mode [ 'app/templates/_less/lib-mixins-pc.less', 438, 420 ]
+168 silly gunzTarPerm extractEntry app/templates/_less/mod-common-mb.less
+169 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-common-mb.less', 438, 420 ]
+170 silly gunzTarPerm extractEntry app/templates/_less/mod-common-pc.less
+171 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-common-pc.less', 438, 420 ]
+172 silly gunzTarPerm extractEntry app/templates/_less/mod-footer-pc.less
+173 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-footer-pc.less', 438, 420 ]
+174 silly gunzTarPerm extractEntry app/templates/_less/mod-reset-mb.less
+175 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-reset-mb.less', 438, 420 ]
+176 silly gunzTarPerm extractEntry app/templates/_less/mod-reset-pc.less
+177 silly gunzTarPerm modified mode [ 'app/templates/_less/mod-reset-pc.less', 438, 420 ]
+178 silly gunzTarPerm extractEntry app/templates/_package.json
+179 silly gunzTarPerm modified mode [ 'app/templates/_package.json', 438, 420 ]
+180 silly gunzTarPerm extractEntry app/templates/editorconfig
+181 silly gunzTarPerm modified mode [ 'app/templates/editorconfig', 438, 420 ]
+182 silly gunzTarPerm extractEntry app/templates/html/guide.html
+183 silly gunzTarPerm modified mode [ 'app/templates/html/guide.html', 438, 420 ]
+184 silly gunzTarPerm extractEntry app/templates/html/index-mb.html
+185 silly gunzTarPerm modified mode [ 'app/templates/html/index-mb.html', 438, 420 ]
+186 silly gunzTarPerm extractEntry app/templates/html/index-pc.html
+187 silly gunzTarPerm modified mode [ 'app/templates/html/index-pc.html', 438, 420 ]
+188 silly gunzTarPerm extractEntry app/templates/html/pc-footer.html
+189 silly gunzTarPerm modified mode [ 'app/templates/html/pc-footer.html', 438, 420 ]
+190 silly gunzTarPerm extractEntry app/templates/html/pc-header.html
+191 silly gunzTarPerm modified mode [ 'app/templates/html/pc-header.html', 438, 420 ]
+192 silly gunzTarPerm extractEntry app/templates/js/lib/alloydesigner.js
+193 silly gunzTarPerm modified mode [ 'app/templates/js/lib/alloydesigner.js', 438, 420 ]
+194 silly gunzTarPerm extractEntry app/templates/js/lib/jquery-1.10.1.min.js
+195 silly gunzTarPerm modified mode [ 'app/templates/js/lib/jquery-1.10.1.min.js', 438, 420 ]
+196 silly gunzTarPerm extractEntry app/templates/js/lib/less2css.js
+197 silly gunzTarPerm modified mode [ 'app/templates/js/lib/less2css.js', 438, 420 ]
+198 silly gunzTarPerm extractEntry app/templates/js/lib/mb-component-min.js
+199 silly gunzTarPerm modified mode [ 'app/templates/js/lib/mb-component-min.js', 438, 420 ]
+200 silly gunzTarPerm extractEntry app/templates/js/lib/mb-component.js
+201 silly gunzTarPerm modified mode [ 'app/templates/js/lib/mb-component.js', 438, 420 ]
+202 silly gunzTarPerm extractEntry app/templates/js/lib/pc-component-min.js
+203 silly gunzTarPerm modified mode [ 'app/templates/js/lib/pc-component-min.js', 438, 420 ]
+204 silly gunzTarPerm extractEntry app/templates/js/lib/pc-component.js
+205 silly gunzTarPerm modified mode [ 'app/templates/js/lib/pc-component.js', 438, 420 ]
+206 silly gunzTarPerm extractEntry app/templates/js/lib/ua.js
+207 silly gunzTarPerm modified mode [ 'app/templates/js/lib/ua.js', 438, 420 ]
+208 silly gunzTarPerm extractEntry app/templates/jshintrc
+209 silly gunzTarPerm modified mode [ 'app/templates/jshintrc', 438, 420 ]
+210 silly gunzTarPerm extractEntry test/test-creation.js
+211 silly gunzTarPerm modified mode [ 'test/test-creation.js', 438, 420 ]
+212 silly gunzTarPerm extractEntry test/test-load.js
+213 silly gunzTarPerm modified mode [ 'test/test-load.js', 438, 420 ]
+214 silly lockFile 17da9b2f-che-generator-choi-0-0-1-package tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+215 silly lockFile 17da9b2f-che-generator-choi-0-0-1-package tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package
+216 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+217 silly lockFile bbd6efbe-generator-choi-0-0-1-package-tgz tar://C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+218 verbose chmod C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz 644
+219 silly chown skipping for windows C:\Users\choizhang\AppData\Roaming\npm-cache\generator-choi\0.0.1\package.tgz
+220 silly lockFile 3a52ce78- .
+221 silly lockFile 3a52ce78- .
+222 silly publish { name: 'generator-choi',
+222 silly publish   version: '0.0.1',
+222 silly publish   description: 'test',
+222 silly publish   main: 'index.js',
+222 silly publish   directories: { test: 'test' },
+222 silly publish   dependencies: { chalk: '~0.4.0', 'yeoman-generator': '~0.16.0' },
+222 silly publish   devDependencies: { mocha: '~1.18.0' },
+222 silly publish   scripts: { test: 'mocha' },
+222 silly publish   repository: { type: 'git', url: 'git@github.com:choizhang/hideseek.git' },
+222 silly publish   keywords: [ 'test' ],
+222 silly publish   author: { name: 'choizhang' },
+222 silly publish   license: 'MIT',
+222 silly publish   bugs: { url: 'https://github.com/hzlzh/f2e-workflow/issues' },
+222 silly publish   homepage: 'https://github.com/hzlzh/f2e-workflow',
+222 silly publish   readme: '# generator-choi [![Build Status](https://secure.travis-ci.org/choizhang/generator-choi.png?branch=master)](https://travis-ci.org/choizhang/generator-choi)\n\n> [Yeoman](http://yeoman.io) generator\n\n\n## Getting Started\n\n### What is Yeoman?\n\nTrick question. It\'s not a thing. It\'s this guy:\n\n![](http://i.imgur.com/JHaAlBJ.png)\n\nBasically, he wears a top hat, lives in your computer, and waits for you to tell him what kind of application you wish to create.\n\nNot every new computer comes with a Yeoman pre-installed. He lives in the [npm](https://npmjs.org) package repository. You only have to ask for him once, then he packs up and moves into your hard drive. *Make sure you clean up, he likes new and shiny things.*\n\n```\n$ npm install -g yo\n```\n\n### Yeoman Generators\n\nYeoman travels light. He didn\'t pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.\n\nTo install generator-choi from npm, run:\n\n```\n$ npm install -g generator-choi\n```\n\nFinally, initiate the generator:\n\n```\n$ yo choi\n```\n\n### Getting To Know Yeoman\n\nYeoman has a heart of gold. He\'s a person with feelings and opinions, but he\'s very easy to work with. If you think he\'s too opinionated, he can be easily convinced.\n\nIf you\'d like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).\n\n\n## License\n\nMIT\n',
+222 silly publish   readmeFilename: 'README.md',
+222 silly publish   _id: 'generator-choi@0.0.1',
+222 silly publish   dist: { shasum: '42b1ed4187d6b5e5dcef505b47e89cd66ae0e4ab' },
+222 silly publish   _from: '.' }
+223 verbose url raw generator-choi
+224 verbose url resolving [ 'https://registry.npmjs.org/', './generator-choi' ]
+225 verbose url resolved https://registry.npmjs.org/generator-choi
+226 info trying registry request attempt 1 at 10:45:56
+227 http PUT https://registry.npmjs.org/generator-choi
+228 http 502 https://registry.npmjs.org/generator-choi
+229 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+229 verbose bad json <html><head>
+229 verbose bad json <title>502 Bad Gateway</title>
+229 verbose bad json </head><body>
+229 verbose bad json <h1>Bad Gateway</h1>
+229 verbose bad json <p>The proxy server received an invalid
+229 verbose bad json response from an upstream server.<br />
+229 verbose bad json </p>
+229 verbose bad json <p>Additionally, a 502 Bad Gateway
+229 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
+229 verbose bad json </body></html>
+230 error registry error parsing json
+231 info retry will retry, error on last attempt: SyntaxError: Unexpected token <
+231 info retry <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+231 info retry <html><head>
+231 info retry <title>502 Bad Gateway</title>
+231 info retry </head><body>
+231 info retry <h1>Bad Gateway</h1>
+231 info retry <p>The proxy server received an invalid
+231 info retry response from an upstream server.<br />
+231 info retry </p>
+231 info retry <p>Additionally, a 502 Bad Gateway
+231 info retry error was encountered while trying to use an ErrorDocument to handle the request.</p>
+231 info retry </body></html>
+232 info trying registry request attempt 2 at 10:48:59
+233 http PUT https://registry.npmjs.org/generator-choi
+234 http 502 https://registry.npmjs.org/generator-choi
+235 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+235 verbose bad json <html><head>
+235 verbose bad json <title>502 Bad Gateway</title>
+235 verbose bad json </head><body>
+235 verbose bad json <h1>Bad Gateway</h1>
+235 verbose bad json <p>The proxy server received an invalid
+235 verbose bad json response from an upstream server.<br />
+235 verbose bad json </p>
+235 verbose bad json <p>Additionally, a 502 Bad Gateway
+235 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
+235 verbose bad json </body></html>
+236 error registry error parsing json
+237 info retry will retry, error on last attempt: SyntaxError: Unexpected token <
+237 info retry <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+237 info retry <html><head>
+237 info retry <title>502 Bad Gateway</title>
+237 info retry </head><body>
+237 info retry <h1>Bad Gateway</h1>
+237 info retry <p>The proxy server received an invalid
+237 info retry response from an upstream server.<br />
+237 info retry </p>
+237 info retry <p>Additionally, a 502 Bad Gateway
+237 info retry error was encountered while trying to use an ErrorDocument to handle the request.</p>
+237 info retry </body></html>
+238 info trying registry request attempt 3 at 10:52:28
+239 http PUT https://registry.npmjs.org/generator-choi
+240 http 502 https://registry.npmjs.org/generator-choi
+241 verbose bad json <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+241 verbose bad json <html><head>
+241 verbose bad json <title>502 Bad Gateway</title>
+241 verbose bad json </head><body>
+241 verbose bad json <h1>Bad Gateway</h1>
+241 verbose bad json <p>The proxy server received an invalid
+241 verbose bad json response from an upstream server.<br />
+241 verbose bad json </p>
+241 verbose bad json <p>Additionally, a 502 Bad Gateway
+241 verbose bad json error was encountered while trying to use an ErrorDocument to handle the request.</p>
+241 verbose bad json </body></html>
+242 error registry error parsing json
+243 error publish Failed PUT 502
+244 error SyntaxError: Unexpected token <
+244 error <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+244 error <html><head>
+244 error <title>502 Bad Gateway</title>
+244 error </head><body>
+244 error <h1>Bad Gateway</h1>
+244 error <p>The proxy server received an invalid
+244 error response from an upstream server.<br />
+244 error </p>
+244 error <p>Additionally, a 502 Bad Gateway
+244 error error was encountered while trying to use an ErrorDocument to handle the request.</p>
+244 error </body></html>
+244 error
+244 error     at Object.parse (native)
+244 error     at RegClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:203:23)
+244 error     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:123:22)
+244 error     at Request.EventEmitter.emit (events.js:98:17)
+244 error     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:893:14)
+244 error     at Request.EventEmitter.emit (events.js:117:20)
+244 error     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:844:12)
+244 error     at IncomingMessage.EventEmitter.emit (events.js:117:20)
+244 error     at _stream_readable.js:920:16
+244 error     at process._tickCallback (node.js:415:13)
+245 error If you need help, you may report this *entire* log,
+245 error including the npm and node versions, at:
+245 error     <http://github.com/npm/npm/issues>
+246 error System Windows_NT 6.1.7601
+247 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+248 error cwd E:\projects\2014\3\fis\choi\generator-choi
+249 error node -v v0.10.26
+250 error npm -v 1.4.3
+251 error type unexpected_token
+252 verbose exit [ 1, true ]
